@@ -1,0 +1,25 @@
+{
+  "name": "ui-debug",
+  "version": "1.0.0",
+  "description": "A React component that helps you reduce console log during debugging, displaying raw data without going through the rendering process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satoshiman/ui-debug.git"
+  },
+  "keywords": [
+    "debug",
+    "debugger",
+    "render",
+    "react"
+  ],
+  "author": "satoshiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satoshiman/ui-debug/issues"
+  },
+  "homepage": "https://github.com/satoshiman/ui-debug#readme"
+}
