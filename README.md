@@ -2,6 +2,8 @@
 
 A React component that helps you reduce console log during debugging, displaying raw data without going through the rendering process.
 
+This package is under development
+
 ## Installation
 
 ```cli

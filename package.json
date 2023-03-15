@@ -1,6 +1,6 @@
 {
   "name": "ui-debug",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A React component that helps you reduce console log during debugging, displaying raw data without going through the rendering process.",
   "main": "index.js",
   "scripts": {
