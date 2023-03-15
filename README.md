@@ -25,3 +25,16 @@ return (
   </div>
 );
 ```
+
+The browser will render the result as below:
+
+```
+state1
+<state1 raw data>
+
+state2
+<state2 raw data>
+
+state3
+<state3 raw data>
+```
